@@ -1,4 +1,4 @@
-<p align="left">## Hello World, I'm Gustavo Alexandre! <br><br>- 🔭 Formado em Analise e Desenvolvimento de Sistemas<br>- 🖥️ Estudando e me dedicando ao Python & Java<br>- </p>
+<p align="left">## Hello World, I'm Gustavo Alexandre! <br><br>- 🔭 Formado em Analise e Desenvolvimento de Sistemas<br> 🖥️ Estudando e me dedicando ao Python & Java<br>- </p>
 
 ###
 
