@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/2z9ixy.jpg" />
-
-###
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Alexandre&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false" alt="GitHub Activity Graph" />
 
 ###
