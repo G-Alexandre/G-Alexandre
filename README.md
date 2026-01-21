@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://ghchart.rshah.org/G-Alexandre" alt="GitHub Contributions Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Alexandre&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false" alt="GitHub Activity Graph" />
 
 ###
 
