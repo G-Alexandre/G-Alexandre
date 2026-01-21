@@ -74,6 +74,7 @@ I enjoy understanding how systems work behind the scenes and I’m always seekin
 ###
 
 <p align="left">
+🎓 Graduated in Systems Analysis and Development
 ✨ Analytical, curious, and adaptable profile<br>
 📈 Focused on continuous learning and technical growth<br>
 🧠 I like to think like a beginner to create clear and well-structured solutions<br>
